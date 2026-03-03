@@ -35,7 +35,7 @@ Get your free API key here: https://home.openweathermap.org/api_keys
 
 Start the server with:
 
-npm start
+npm run dev
 
 The API will be available at: http://localhost:8000 (or your chosen PORT)
 
