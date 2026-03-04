@@ -71,6 +71,7 @@ Temperature is shown in °C by default (metric units).
 Make sure your API key is valid and not expired.
 For production, consider adding rate limiting, caching, and more detailed error messages.
 
-## project url 
-https://github.com/blackgordon07/weather-api
+## Project Source
+This project is part of the roadmap.sh Weather API Wrapper challenge:
+https://roadmap.sh/projects/weather-api-wrapper-service
 
