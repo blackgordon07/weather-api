@@ -71,3 +71,6 @@ Temperature is shown in °C by default (metric units).
 Make sure your API key is valid and not expired.
 For production, consider adding rate limiting, caching, and more detailed error messages.
 
+## project url 
+https://github.com/blackgordon07/weather-api
+
